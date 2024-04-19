@@ -1,0 +1,24 @@
+.Va-item {
+  background-color: #fff;
+}
+
+.Veg-item {
+  font-size: 30px;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
+
+.button {
+  float: right;
+  margin: 8px;
+  padding: 3px;
+  border: 1px solid #000;
+  background-color: azure;
+  font-weight: 600;
+  width: 60px;
+}
+
+.button:hover {
+  background-color: rgb(79, 238, 30);
+  color: #fff;
+}
